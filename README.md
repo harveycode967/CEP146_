@@ -6,7 +6,7 @@ Welcome to my academic portfolio for the Computer Programming and Analysis progr
 - Name: Mohammed Faizan
 - Major: Computer Programming and Analysis (CPA Advanced Diploma)
 - Year: 2026 (Summer Term)
-- Favorite Programming Language: C / PowerShell Scripting
+- Favorite Programming Language: C , PowerShell Scripting and Python
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
